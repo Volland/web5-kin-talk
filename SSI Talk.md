@@ -1,4 +1,17 @@
 
+# AI ❤️ Self Sovereign Data 
+---
+### Volodia 
+- Ukrainian based in Berlin 
+- wrote the first line of code in 1995
+- 22 years in Software 
+- 10 years in identity 
+- 5 years in web3 and decentralization movement 
+- 4 years in sovereign data and privacy 
+- building Kin as the  private and privacy-first AI 
+
+[Youtube](https://www.youtube.com/c/volodymyrpavlyshyn) [Medium](https://medium.com/@volodymyrpavlyshyn) / [Peertube](https://diode.zone/c/vp/videos) [Yakihonne](https://yakihonne.com/users/nprofile1qqswdqt52wvwgnpw6el3z6szhj09843a0hj7kfsrjgjys6qpkzkrcwgpr3mhxue69uhkummnw3ez6vp39eukz6mfdphkumn99e3k7mgpr3mhxue69uhkummnw3ez6vpj9eukz6mfdphkumn99e3k7mgpremhxue69uhkummnw3ez6vpj9ejx7unpveskxar0wfujummjvuq3gamnwvaz7tmjv4kxz7fwv3sk6atn9e5k720mrwf)
+---
 
 ### Values 
 - individual freedom
@@ -12,13 +25,17 @@
 ### AI Challenges 
 
 - Computation power 
-	- Electricity 
-	- GPU and silicon
--  Data 
-	- Hunger 
-	- Ownership
-	- Privacy
-	- fair reward 
+- Electricity 
+- GPU and silicon
+
+---
+
+### AI Challenges  - Data 
+
+- Hunger 
+- Ownership
+- Privacy
+- fair reward 
  
 ---
 
@@ -66,12 +83,15 @@ Privacy and Security
 - SSI on steroids 
 - DIDs (identity) + DWNs (data)
 
+![[web5-ssi-on-steroids.png|500]]
+
 [What web5 is about](https://medium.com/@volodymyrpavlyshyn/what-is-web5-about-and-why-does-it-matter-in-the-post-ai-and-post-blockchain-world-bca8148b0766)
 
 ---
 
 ###  DID
 - [Dezentralized Identifier](https://identity.foundation/faq/) 
+- Distribute a public key in a agnostic way
  - crypto-based verifiable identifier 
  - autonomous 
 
@@ -154,14 +174,15 @@ Protocols and open technology
 ### AI use cases of SSI and WEB5
 
 - learning on  private data 
-- data economy 
 - Authentic sensors — how to prove nongenerative content
 -  ZKML — proof of Model use
+- data economy 
+- agents interaction
 
 [Self-Sovereign Data and AI/ML](https://medium.com/@volodymyrpavlyshyn/with-the-current-boom-in-artificial-intelligence-ai-and-large-language-models-the-intersection-28cdcf5f4153)
 
 ---
-### Personal AI usecases 
+### Personal AI use cases 
 - personal ai,
 - proof of personhood
 - personalized experiences without risking privacy
@@ -172,6 +193,9 @@ Protocols and open technology
 - personal 
 - private 
 - build on top of web5 
+---
+
+# Q & A 
 
 
 
